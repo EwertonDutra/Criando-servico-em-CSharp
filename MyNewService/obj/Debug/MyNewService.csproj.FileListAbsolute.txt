@@ -1,0 +1,9 @@
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.pdb
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\obj\Debug\MyNewService.MyNewService.resources
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.GenerateResource.cache
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.CoreCompileInputs.cache
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\obj\Debug\MyNewService.exe
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\obj\Debug\MyNewService.pdb
+E:\PROJETOS\Visual Studio\MyNewService\MyNewService\obj\Debug\MyNewService.csprojAssemblyReference.cache

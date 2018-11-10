@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Instalando o serviço Meu Servico Name...
+Serviço Meu Servico Name foi instalado com êxito.
+Criando a origem de EventLog Meu Servico Name no log Application...
+Confirmando o assembly 'E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = E:\PROJETOS\Visual Studio\MyNewService\MyNewService\bin\Debug\MyNewService.exe
